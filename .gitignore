@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+adi.egg-info/
 
 !adi/Release/_adi_cffi.cp36-win_amd64.lib
 !adi/ADIDatIOWin64.dll
